@@ -61,7 +61,7 @@ Security Report
 
 # Poster Preview
 
-![Poster Preview](Poster/Secure-Cloud-Sandbox-Poster.png)
+![Poster Preview](Poster/Secure-Cloud-Sandbox-project-poster.png)
 
 ---
 
