@@ -2,9 +2,11 @@
 
 ## Cloud-Based Isolated Environment for Threat Analysis
 
+![Poster Preview](Poster/Secure-Cloud-Sandbox-project-poster.png)
+
 Secure Cloud Sandbox is an academic cloud security project that proposes a secure and isolated cloud environment for analyzing suspicious files and detecting malicious behavior without affecting real systems.
 
-The project focuses on combining cloud computing, virtualization, monitoring, and threat analysis concepts to improve cloud security and reduce cyber risks.
+The project combines cloud computing, virtualization, monitoring, and threat analysis concepts to improve cloud security and reduce cyber risks.
 
 ---
 
@@ -43,25 +45,19 @@ The sandbox environment monitors file behavior, detects abnormal activities, and
 
 # System Architecture
 
-User Upload
-↓
-Upload API / Gateway
-↓
-Sandbox Controller
-↓
-Isolated Virtual Machine (VM)
-↓
-Behavior Monitoring
-↓
-Threat Detection Engine
-↓
+User Upload  
+↓  
+Upload API / Gateway  
+↓  
+Sandbox Controller  
+↓  
+Isolated Virtual Machine (VM)  
+↓  
+Behavior Monitoring  
+↓  
+Threat Detection Engine  
+↓  
 Security Report
-
----
-
-# Poster Preview
-
-![Poster Preview](Poster/Secure-Cloud-Sandbox-project-poster.png)
 
 ---
 
